@@ -1,0 +1,103 @@
+﻿  animation.cpp
+  archtype.cpp
+  associative_language_parser.cpp
+  a_world.cpp
+  clock.cpp
+  ContactManifold.cpp
+  d3d_context_resources.cpp
+  d3d_gpu_geometry.cpp
+d3d_gpu_geometry.cpp(34): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+d3d_gpu_geometry.cpp(44): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+  d3d_pipeline_state.cpp
+  d3d_shaders.cpp
+  d3d_context.cpp
+  d3d_texture.cpp
+  d3d_window.cpp
+  enclosure.cpp
+  enforce_default.cpp
+  environment.cpp
+environment.cpp(156): warning C4018: '<': signed/unsigned mismatch
+environment.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  geometry_pass.cpp
+  image.cpp
+  main.cpp
+  material.cpp
+  Compiling...
+  mesh.cpp
+  model.cpp
+  netphy_communications.cpp
+  network_thread.cpp
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\address.h(13): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(2238): note: see declaration of 'gethostbyname'
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\address.h(15): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1868): note: see declaration of 'inet_ntoa'
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\message_coding.h(344): warning C4018: '<': signed/unsigned mismatch
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\message_coding.h(363): warning C4018: '<': signed/unsigned mismatch
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\message_coding.h(381): warning C4018: '<': signed/unsigned mismatch
+network_thread.cpp(82): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+network_thread.cpp(145): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+network_thread.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  perspective_view.cpp
+  PhysicsThread.cpp
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\rk4.h(19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\rk4.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsThread.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsThread.cpp(325): warning C4018: '<': signed/unsigned mismatch
+PhysicsThread.cpp(328): warning C4018: '<': signed/unsigned mismatch
+PhysicsThread.cpp(530): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+PhysicsThread.cpp(531): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  plane.cpp
+  p_base.cpp
+  Registry.cpp
+  master.cpp
+  render_state.cpp
+  Scene.cpp
+Scene.cpp(22): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+  set_shader.cpp
+  simulation.cpp
+simulation.cpp(292): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+simulation.cpp(298): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+simulation.cpp(409): warning C4305: 'argument': truncation from 'double' to 'const float'
+simulation.cpp(414): warning C4305: 'argument': truncation from 'double' to 'const float'
+  clear.cpp
+  so_base.cpp
+  so_camera.cpp
+  so_scenery.cpp
+  Sphere.cpp
+  sys_shader.cpp
+  Compiling...
+  tcpconnection.cpp
+tcpconnection.cpp(26): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(2238): note: see declaration of 'gethostbyname'
+tcpconnection.cpp(28): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1868): note: see declaration of 'inet_ntoa'
+tcpconnection.cpp(33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: see declaration of 'inet_addr'
+tcpconnection.cpp(39): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: see declaration of 'inet_addr'
+tcpconnection.cpp(60): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(2238): note: see declaration of 'gethostbyname'
+tcpconnection.cpp(62): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1868): note: see declaration of 'inet_ntoa'
+tcpconnection.cpp(73): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: see declaration of 'inet_addr'
+  tcplistener.cpp
+  udp.cpp
+udp.cpp(16): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(2238): note: see declaration of 'gethostbyname'
+udp.cpp(18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1868): note: see declaration of 'inet_ntoa'
+udp.cpp(28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: see declaration of 'inet_addr'
+udp.cpp(14): warning C4101: 'in': unreferenced local variable
+  UI.cpp
+  uv_sphere_generator.cpp
+  window_archtype.cpp
+  window_manager.cpp
+  Generating code
+  24 of 5901 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL2_Wrapper.vcxproj -> G:\Simulation and Concurrency\ACW_OtherFramework\Visual Studio Solution\Release\SDL2_Wrapper.exe
+  SDL2_Wrapper.vcxproj -> G:\Simulation and Concurrency\ACW_OtherFramework\Visual Studio Solution\Release\SDL2_Wrapper.pdb (Full PDB)

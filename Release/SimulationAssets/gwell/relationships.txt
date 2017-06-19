@@ -1,0 +1,2 @@
+model:gwell:gwell.obj
+material:gwell:gwell.material

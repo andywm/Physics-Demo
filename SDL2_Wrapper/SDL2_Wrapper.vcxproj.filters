@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{3462968f-c31a-4d97-aeb3-fb21a90c40a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utilities">
+      <UniqueIdentifier>{a71e3869-3260-417d-a45d-9017066ddb08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics">
+      <UniqueIdentifier>{9c2c5a76-c393-4b34-ae6d-1b9dd580f5df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics\IntefaceObj">
+      <UniqueIdentifier>{b28196a2-0e1a-46e3-8bf7-5f0f12292c40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics\PhysObjects">
+      <UniqueIdentifier>{46f306d4-e8ab-4255-b48b-65fc0eb055eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Netcode">
+      <UniqueIdentifier>{5cabfeb6-505e-40a8-9a67-464946dccb24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Netcode">
+      <UniqueIdentifier>{6d9230d6-62f7-4b0e-8daf-ea7729aa40eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Netcode\Winsock2">
+      <UniqueIdentifier>{11eaa62d-a14c-42a3-953a-518dd5f03f2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Netcode\Winsock2">
+      <UniqueIdentifier>{114caa9b-fff0-4a64-932e-506867cdddb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI">
+      <UniqueIdentifier>{2db217c2-eeda-40c7-a32b-bdb5b817fe74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Window">
+      <UniqueIdentifier>{ae8db951-98fc-4574-b11b-76ca13e52dc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Assets">
+      <UniqueIdentifier>{3bb0bc4d-3652-45dd-9d1c-aa4f1c954860}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Assets\Formats">
+      <UniqueIdentifier>{054b7bb9-ceae-48bf-9618-4abed372ddaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Assets\Formats\Raw">
+      <UniqueIdentifier>{f70eaceb-ea45-4f51-a276-b00b015fda7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Assets\Formats\Configs">
+      <UniqueIdentifier>{5ee1c7dc-bc18-4177-8cf0-82615fd9628d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render">
+      <UniqueIdentifier>{a0c53b2d-d656-4146-988b-f28f1c5ef8d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render\GPU_Assets">
+      <UniqueIdentifier>{20daaa4d-34cb-454b-a6b8-74581c358300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render\RenderPasses">
+      <UniqueIdentifier>{04f29d6d-fe12-480a-9a1f-90e0de6b6b93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render\RenderPasses\Stages">
+      <UniqueIdentifier>{cb9eb3c9-3336-43df-8931-6e6453932912}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render\RenderPasses\Passes">
+      <UniqueIdentifier>{4ff063f3-2a60-44b1-9680-d6fe72bb0b54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render\World">
+      <UniqueIdentifier>{2763ab5e-5e0a-41aa-9c4c-ee39f95f7b0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics&amp;UI\Render\World\Objects">
+      <UniqueIdentifier>{27baa67c-bd20-4910-a95c-2329636720ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI">
+      <UniqueIdentifier>{7339d55d-c754-4efc-b103-b6a65ff9b067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render">
+      <UniqueIdentifier>{857fa42d-1cff-4bb4-8ac0-b74075af4367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\GPU_Assets">
+      <UniqueIdentifier>{5ddc77d5-917c-44cc-9f02-a1787426cb3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\RenderPasses">
+      <UniqueIdentifier>{d419c3a5-ecef-4025-8eea-2675771aab0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\RenderPasses\Stages">
+      <UniqueIdentifier>{3af41d72-5310-468e-9ce7-73f7622f3640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\RenderPasses\Passes">
+      <UniqueIdentifier>{bb9ffeeb-d928-40a5-9f12-d3a974ff395b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\RenderPasses\Passes\Base">
+      <UniqueIdentifier>{01d5cec0-c7e4-419d-a777-8d899098fe75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\World">
+      <UniqueIdentifier>{a03a02ec-0229-4cb0-9f74-414a04d3e343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Render\World\Objects">
+      <UniqueIdentifier>{129977fb-e714-4658-91e0-96aa45e790d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Assets">
+      <UniqueIdentifier>{e81a23c0-7ba0-4132-851e-8eab7992ce48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Assets\Formats">
+      <UniqueIdentifier>{e838f790-864e-4e71-8bf1-e5238817fdfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Assets\Formats\Raw">
+      <UniqueIdentifier>{c4fff114-e1cc-4202-a74c-93058bfa0746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Assets\Formats\Configs">
+      <UniqueIdentifier>{8f0a63db-061c-41ab-a1b4-fe74ba490ecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics&amp;UI\Window">
+      <UniqueIdentifier>{84def15d-aa9a-4d2a-993d-12e6c56820de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics">
+      <UniqueIdentifier>{e120fa01-f74a-4eb5-9b7f-f23100d496d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics\PhysObj">
+      <UniqueIdentifier>{2fc44448-d408-419b-a245-4ee8fed7c881}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ExhchangeFormats">
+      <UniqueIdentifier>{67ad3aca-4723-4927-a6d6-788c265ef5ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ExchangeFormats">
+      <UniqueIdentifier>{e95c8084-fc57-4ba4-8c59-1ba6ac90ca4d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window_manager.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="window_archtype.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="simulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="environment.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\World</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_window.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_shaders.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\GPU_Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_gpu_geometry.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\GPU_Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_context.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Registry.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="model.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_pipeline_state.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="clear.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClCompile>
+    <ClCompile Include="master.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses\Passes</Filter>
+    </ClCompile>
+    <ClCompile Include="render_state.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses</Filter>
+    </ClCompile>
+    <ClCompile Include="associative_language_parser.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="geometry_pass.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_context_resources.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="enforce_default.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses\Passes</Filter>
+    </ClCompile>
+    <ClCompile Include="set_shader.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClCompile>
+    <ClCompile Include="uv_sphere_generator.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="clock.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="perspective_view.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="so_base.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="archtype.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats\Configs</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClCompile>
+    <ClCompile Include="mesh.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClCompile>
+    <ClCompile Include="sys_shader.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClCompile>
+    <ClCompile Include="a_world.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats\Configs</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_texture.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\GPU_Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="material.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClCompile>
+    <ClCompile Include="p_base.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\RenderPasses\Passes\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="so_scenery.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsThread.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="ContactManifold.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="so_camera.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files\Graphics&amp;UI\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>Source Files\Physics\PhysObj</Filter>
+    </ClCompile>
+    <ClCompile Include="plane.cpp">
+      <Filter>Source Files\Physics\PhysObj</Filter>
+    </ClCompile>
+    <ClCompile Include="network_thread.cpp">
+      <Filter>Source Files\Netcode</Filter>
+    </ClCompile>
+    <ClCompile Include="udp.cpp">
+      <Filter>Source Files\Netcode\Winsock2</Filter>
+    </ClCompile>
+    <ClCompile Include="tcplistener.cpp">
+      <Filter>Source Files\Netcode\Winsock2</Filter>
+    </ClCompile>
+    <ClCompile Include="tcpconnection.cpp">
+      <Filter>Source Files\Netcode\Winsock2</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files\Graphics&amp;UI</Filter>
+    </ClCompile>
+    <ClCompile Include="enclosure.cpp">
+      <Filter>Source Files\Physics\PhysObj</Filter>
+    </ClCompile>
+    <ClCompile Include="netphy_communications.cpp">
+      <Filter>Source Files\ExchangeFormats</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="window_manager.h">
+      <Filter>Header Files\Graphics&amp;UI\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="window_archtype.h">
+      <Filter>Header Files\Graphics&amp;UI\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="simulation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="environment.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\World</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_window.h">
+      <Filter>Header Files\Graphics&amp;UI\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_gpu_geometry.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\GPU_Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_shaders.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\GPU_Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats</Filter>
+    </ClInclude>
+    <ClInclude Include="Registry.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_context.h">
+      <Filter>Header Files\Graphics&amp;UI\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_pipeline_state.h">
+      <Filter>Header Files\Graphics&amp;UI\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="clear.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="stage_base.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="pass_base.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Passes</Filter>
+    </ClInclude>
+    <ClInclude Include="master.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Passes</Filter>
+    </ClInclude>
+    <ClInclude Include="render_state.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses</Filter>
+    </ClInclude>
+    <ClInclude Include="associative_language_parser.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry_stage.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="set_shader.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="enforce_default.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\RenderPasses\Passes</Filter>
+    </ClInclude>
+    <ClInclude Include="uv_sphere_generator.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="clock.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="so_base.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="perspective_view.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="sys_shader.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClInclude>
+    <ClInclude Include="archtype.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Configs</Filter>
+    </ClInclude>
+    <ClInclude Include="a_world.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Configs</Filter>
+    </ClInclude>
+    <ClInclude Include="a_asset_pack.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Configs</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_texture.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\GPU_Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="material.h">
+      <Filter>Header Files\Graphics&amp;UI\Assets\Formats\Raw</Filter>
+    </ClInclude>
+    <ClInclude Include="random_number.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="so_scenery.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleBuffer.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="OwnershipEnum.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsThread.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="ContactManifold.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="rk4.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="so_camera.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="so_includes.h">
+      <Filter>Header Files\Graphics&amp;UI\Render\World\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files\Graphics&amp;UI\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>Header Files\Physics\PhysObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="plane.h">
+      <Filter>Header Files\Physics\PhysObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="network_thread.h">
+      <Filter>Header Files\Netcode</Filter>
+    </ClInclude>
+    <ClInclude Include="udp.h">
+      <Filter>Header Files\Netcode\Winsock2</Filter>
+    </ClInclude>
+    <ClInclude Include="tcplistener.h">
+      <Filter>Header Files\Netcode\Winsock2</Filter>
+    </ClInclude>
+    <ClInclude Include="tcpconnection.h">
+      <Filter>Header Files\Netcode\Winsock2</Filter>
+    </ClInclude>
+    <ClInclude Include="address.h">
+      <Filter>Source Files\Netcode\Winsock2</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files\Graphics&amp;UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Peer.h">
+      <Filter>Header Files\Physics\IntefaceObj</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickTransferStruct.hpp">
+      <Filter>Header Files\ExhchangeFormats</Filter>
+    </ClInclude>
+    <ClInclude Include="Weight.hpp">
+      <Filter>Header Files\ExhchangeFormats</Filter>
+    </ClInclude>
+    <ClInclude Include="enclosure.h">
+      <Filter>Header Files\Physics\PhysObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="message_coding.h">
+      <Filter>Header Files\Netcode</Filter>
+    </ClInclude>
+    <ClInclude Include="netphy_communication.h">
+      <Filter>Header Files\ExhchangeFormats</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+model:walls:walls.obj
+material:walls:walls.material

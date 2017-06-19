@@ -1,0 +1,13 @@
+﻿  network_thread.cpp
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\address.h(13): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\address.h(15): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\message_coding.h(344): warning C4018: '<': signed/unsigned mismatch
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\message_coding.h(363): warning C4018: '<': signed/unsigned mismatch
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\message_coding.h(381): warning C4018: '<': signed/unsigned mismatch
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\network_thread.cpp(82): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\network_thread.cpp(145): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+g:\simulation and concurrency\acw_otherframework\visual studio solution\sdl2_wrapper\network_thread.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SDL2_Wrapper.vcxproj -> G:\Simulation and Concurrency\ACW_OtherFramework\Visual Studio Solution\Debug\SDL2_Wrapper.exe
+  SDL2_Wrapper.vcxproj -> G:\Simulation and Concurrency\ACW_OtherFramework\Visual Studio Solution\Debug\SDL2_Wrapper.pdb (Full PDB)

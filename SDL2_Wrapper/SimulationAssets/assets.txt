@@ -1,0 +1,6 @@
+worldconf:world.conf
+shaders:shaders
+simobj:gwell
+simobj:walls
+simobj:floor
+simobj:ball

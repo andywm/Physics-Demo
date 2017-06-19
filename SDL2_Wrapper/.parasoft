@@ -1,0 +1,32 @@
+#Mon Jan 09 06:59:12 GMT 2017
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=cl.exe
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=cl.exe
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=vc_14_0
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -I.
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=vs71_extractor_id
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=link.exe
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options} ${cpptest\:project_lib_files}
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+SDL2_Wrapper/SDL2_Wrapper//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path.ef1d303a-cd9a-441b-8098-f90ef447e306=SDL2_Wrapper/SDL2_Wrapper

@@ -1,0 +1,3 @@
+vs:default_vs:vertex.hlsl
+fs:default_fs:fragment.hlsl
+fs:normal_fs:fragment_normals.hlsl
